@@ -6,9 +6,11 @@ I will also upload all my data in my 'Climate Change' repository.
 
 I understand that Github does not support plotly graph. Please click on the link for Jupyter Notebook
 Global Temperatures: 
+
 http://nbviewer.jupyter.org/github/chinguyen2303/Climate-Change/blob/master/Global%20Tempartures.ipynb
 
 Countries Temperatures: 
+
 http://nbviewer.jupyter.org/github/chinguyen2303/Climate-Change/blob/master/Country%20Temperature.ipynb
 
 In progress ...  
