@@ -9,7 +9,7 @@ Global Temperatures:
 
 http://nbviewer.jupyter.org/github/chinguyen2303/Climate-Change/blob/master/Global%20Tempartures.ipynb
 
-Countries Temperatures: 
+Jupyter Notebook Countries Temperatures: 
 
 http://nbviewer.jupyter.org/github/chinguyen2303/Climate-Change/blob/master/Country%20Temperature.ipynb
 
